@@ -1,0 +1,16 @@
+.items-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.image {
+  height: 150px;
+  width: 150px;
+}
+.heading {
+  color: black;
+  font-family: 'Roboto';
+  font-size: 14px;
+  padding-top: 10px;
+}
